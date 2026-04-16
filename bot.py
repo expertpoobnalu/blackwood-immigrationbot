@@ -1,7 +1,7 @@
 import asyncio
 import json
 from datetime import datetime, timedelta
-from aiogram import Bot, Dispatcher, types, F
+from aiogram import Bot, Dispatcher, types
 
 TOKEN = "8787664171:AAGSRE85kVMf-UuaRecz7Sx95Frr8a5Rs0E"
 ADMIN_ID = 8095231634
